@@ -31,6 +31,3 @@ SOURCES += \
 HEADERS += \
         mainwindow.h \
     game.h
-
-FORMS += \
-        mainwindow.ui
